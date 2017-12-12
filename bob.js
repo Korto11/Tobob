@@ -7,7 +7,7 @@ function hello(a, b) {
         print("hello")
     }
     else{
-        print("cerise sur le bateau")
+        print("cerise sur le bateau sur l'eau")
     }
 
 }
